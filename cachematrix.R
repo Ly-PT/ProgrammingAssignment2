@@ -43,8 +43,8 @@ cacheSolve <- function(x, ...) {
         
 }
 
-## Example test case. Note, a inversible matrix needs to be square.
-## Generate a inversible matrix. Print the output.
+## Example test case. Note, a invertible matrix needs to be square.
+## Generate a invertible matrix. Print the output.
 matrix <- matrix(rnorm(9), 3, 3)
 print(matrix)
 ## A special "matrix" object that can cache its inverse. Print the output. 
